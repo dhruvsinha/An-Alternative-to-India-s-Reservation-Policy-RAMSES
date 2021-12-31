@@ -14,5 +14,5 @@ of reservations for that individual to have a level playing field.
 A flexible and dynamically adaptive framework like RAMSES
 will empower policymakers, reduce bias, and become more
 broadly accepted in society as a foundation on which rational
-negotiations for reservations can happen, instead of the politically charged (and often violent) altercations that currently
+negotiations for reservations can happen, instead of the politically charged (and often violent) altercations that currently
 drive these processes.
