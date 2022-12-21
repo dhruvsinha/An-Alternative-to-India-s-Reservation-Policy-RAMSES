@@ -16,3 +16,5 @@ will empower policymakers, reduce bias, and become more
 broadly accepted in society as a foundation on which rational
 negotiations for reservations can happen, instead of the politically charged (and often violent) altercations that currently
 drive these processes.
+
+EMAIL FOR CODE AND DATASET!
