@@ -1,4 +1,4 @@
-# An-Alternative-to-India's-Reservation-Policy-RAMSES
+# An Alternative to India's Reservation Policy-RAMSES
 
 Affirmative action in the form of reservations is a divisive
 and contentious topic of policy in India. In this paper, we
