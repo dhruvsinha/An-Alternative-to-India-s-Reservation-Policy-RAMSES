@@ -101,4 +101,4 @@ survey of 41,554 households (2,00,000) individuals in 1503
 villages and 971 urban neighborhoods across India. Our
 estimation equation will look like this
 
-$$log(hourly\_wage)= \beta_0+ \beta_1*Caste+\beta_2*urban+\beta_3*Male+\beta_4*educ+\beta_5*age+\beta_6*age^2+district FE+\mu$$
+$log(hourlyWage)= \beta_0+ \beta_1*Caste+\beta_2*urban+\beta_3*Male+\beta_4*educ+\beta_5*age+\beta_6*age^2+district FE+\mu$$
