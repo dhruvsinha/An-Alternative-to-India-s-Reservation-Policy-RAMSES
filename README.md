@@ -103,6 +103,9 @@ estimation equation will look like this
 
 log(hourlyWage) = $\beta_0+\beta_1 * Caste + \beta_2 * urban + \beta_3 * Male + \beta_4 * educ + \beta_5 * age + \beta_6 * age^2 + District FE +\mu$ 
 
-$log(hW)$= \beta_0+ \beta_1C+\beta_2*U+\beta_3*M+\beta_4*E+\beta_5*A+\beta_6*A^2+district FE+\mu$
+Results of the above equaltion are in Table 1: 
 
+| ![education.jpg](/ramses-images/table1.jpg) | 
+|:--:| 
+||
 
