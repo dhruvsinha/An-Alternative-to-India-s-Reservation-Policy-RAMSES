@@ -1,5 +1,7 @@
 # An Alternative to India's Reservation Policy-RAMSES
 
+## Abstract 
+
 Affirmative action in the form of reservations is a divisive
 and contentious topic of policy in India. In this paper, we
 create the first principled and data-driven model to design the
@@ -17,4 +19,4 @@ broadly accepted in society as a foundation on which rational
 negotiations for reservations can happen, instead of the politically charged (and often violent) altercations that currently
 drive these processes.
 
-EMAIL FOR CODE AND DATASET!
+This paper was published in the [ACM 2020 COMPASS Connference](https://dl.acm.org/doi/abs/10.1145/3378393.3402240)
