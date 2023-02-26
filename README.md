@@ -50,5 +50,10 @@ unfairness) of reservation policy at the level of the individual.
 To motivate discussion for the need of a quantitative framework, we plot some important distributions. We compare top
 10% of Scheduled Castes and OBCs (income wise) with bottom 10% of Forward Castes (including Brahmins). We first
 plot the the distribution of number of Assets owned by each
-Household.
+Household. 
+
+| ![k_means_clustering.jpg](/ramses-images/assets.jpg) | 
+|:--:| 
+||
+
 
