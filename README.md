@@ -20,3 +20,5 @@ negotiations for reservations can happen, instead of the politically charged (an
 drive these processes.
 
 **This paper was published in the [ACM 2020 COMPASS Connference](https://dl.acm.org/doi/abs/10.1145/3378393.3402240)**
+
+**If you want access to the code or the dataset, please email at dhruvsinha.09@gmail.com**
