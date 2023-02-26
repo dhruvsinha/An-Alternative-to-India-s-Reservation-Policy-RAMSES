@@ -66,4 +66,17 @@ households have more educated household members.
 |:--:| 
 ||
 
+Similarly, we see that the
+hourly wage distribution of rural Brahmins is the same as
+that of rural Scheduled Castes. It can be seen from the flat
+distribution that urban Brahmins have a much higher income
+than rural and urban SCs.
 
+
+| ![education.jpg](/ramses-images/rural_urban.jpg) | 
+|:--:| 
+||
+
+It is because of these reasons, that we believe that a discussion on dynamic affirmative policy is needed. 
+
+## Model
