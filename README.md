@@ -80,3 +80,27 @@ than rural and urban SCs.
 It is because of these reasons, that we believe that a discussion on dynamic affirmative policy is needed. 
 
 ## Model
+
+### Mincer Earning’s equation
+
+In this method, we start by observing the parental income
+of the individual. We hypothesize that parent’s income is probably the most important factor in determining the quality and
+years of education that a child will receive. Income in the labor
+market may depend upon several factors other than education
+and skill. There can be 'taste for discrimination' in the labor
+market against certain castes and females. Therefore, according to our Mincer Earning’s equation [15], the wage a parent or
+household receives is a function of factors like Caste, sex, age,
+education and residence. In our model, we calculate the impact
+of each parameter and accordingly adjust the income to derive
+adjusted income. As a result, the student is compensated for
+the disadvantage his/her parents face in the labor market. To
+calculate the adjusted income using this method, we use the
+individual data of Indian Human Development Survey (IHDS),
+2011. The IHDS is a nationally representative, multi-topic
+survey of 41,554 households (2,00,000) individuals in 1503
+villages and 971 urban neighborhoods across India. Our
+estimation equation will look like this
+
+$log(hourly\_wage)= \beta_0+ \beta_1*Caste+\beta_2*urban\\
+     +\beta_3*Male+\beta_4*educ+\beta_5*age+\beta_6*age^2\\
+     +district FE+\mu$
