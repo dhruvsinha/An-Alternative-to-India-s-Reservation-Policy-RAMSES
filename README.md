@@ -136,7 +136,7 @@ adjusted income. Therefore, adjusted income = 7,00,000−
 
 
 Therefore, if policymakers decide the cap for availing reservation to be the same as that of income tax ,i.e. INR 2,50,000,
-then a rural female Dalit from rural region with parental income of INR 7,00,00 is not eligible for reservation. Similarly, in our model, a Brahmin student who completed his/her
+then a rural female Dalit from rural region with parental income of INR 7,00,00 is not eligible for reservation. Similarly, in our model, a Brahmin student who completed his/her
 school education from rural area with household income of
 INR 3,00,000 can avail reservation.
 
