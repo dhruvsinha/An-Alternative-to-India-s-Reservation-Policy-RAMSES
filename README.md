@@ -109,3 +109,34 @@ Results of the above equaltion are in Table 1:
 |:--:| 
 ||
 
+## USING RESULTS TO CALCULATE THE ADJUSTED INCOME
+
+From the table abovem we have got coefficients for different
+parameters. We will use these coefficients to come up with adjusted income for each individual. Suppose a Dalit individual
+from rural UP wants to take admission in a college. Using the
+results from Table 1, we do the following adjustment to her
+income:
+
+* Her father’s income is 5,00,000/annum and mother’s income is 2,00,000/annum. We will calculate the adjusted income of mother and father
+separately
+* She comes from a rural area reduce the income of both
+mother and father by 18%. Father’s income is reduced by
+90,000 and mother’s income is reduced by 36000.
+* As she belongs to the Dalit community, his/her parent’s
+income should be reduced by 10%. Therefore, father’s income is reduced by 50,000 and mother’s income is reduced
+by 20,000.
+* As her mother is also earning, being a female her income
+should be reduced by 33%. This reduction is equal to
+66,000
+* Thus total reduction = 90,000 + 36,000 + 50,000 +
+20,000+66,000 = 2,62,000
+* We reduce this amount from the household income to derive
+adjusted income. Therefore, adjusted income = 7,00,000−
+2,62,000 = 4,38,00
+
+
+Therefore, if policymakers decide the cap for availing reservation to be the same as that of income tax ,i.e. INR 2,50,000,
+then a rural female Dalit from rural region with parental income of INR 7,00,00 is not eligible for reservation. Similarly, in our model, a Brahmin student who completed his/her
+school education from rural area with household income of
+INR 3,00,000 can avail reservation.
+
