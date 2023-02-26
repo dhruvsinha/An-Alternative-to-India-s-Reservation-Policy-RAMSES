@@ -50,9 +50,19 @@ unfairness) of reservation policy at the level of the individual.
 To motivate discussion for the need of a quantitative framework, we plot some important distributions. We compare top
 10% of Scheduled Castes and OBCs (income wise) with bottom 10% of Forward Castes (including Brahmins). We first
 plot the the distribution of number of Assets owned by each
-Household. 
+Household. We can see in Fig 1 that distribution for Scheduled Castes and
+OBCs is to the right of that Forward Castes.
 
-| ![k_means_clustering.jpg](/ramses-images/assets.jpg) | 
+| ![assests.jpg](/ramses-images/assets.jpg) | 
+|:--:| 
+||
+
+We also plot the distribution of maximum education received
+by any member of the Household. In Fig below, we see that the well to do Scheduled Caste
+Households have almost the same distribution as impoverished Forward Caste Households. Moreover, well to do OBC
+households have more educated household members. 
+
+| ![education.jpg](/ramses-images/education.jpg) | 
 |:--:| 
 ||
 
