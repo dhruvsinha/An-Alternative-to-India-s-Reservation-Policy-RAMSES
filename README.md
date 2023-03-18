@@ -109,7 +109,7 @@ Results of the above equaltion are in Table 1:
 |:--:| 
 ||
 
-## USING RESULTS TO CALCULATE THE ADJUSTED INCOME
+## Using the above results to calculate Adjusted Income
 
 From the table abovem we have got coefficients for different
 parameters. We will use these coefficients to come up with adjusted income for each individual. Suppose a Dalit individual
